@@ -7,6 +7,6 @@ Mais la fée du code s'est penché sur son berceau et 20 ans plus tard, il code 
 Ceci est son histoire racontée pour vous. 
 
 
-De struts, jdbc template jusqu'à quarkus microprofile compilé nativement avec Graalvm, en passant par Ant jusqu'a maven et graddle, nous ferons un tour d'horizon de l'évolution des techno que nous avons pu croiser. De la méthodologie de cycle en V a l'agilité et l'enpowerement du développeur logiciel, nous aurons un regarde sur les changements qui ont impacté nos manières de travailler.
+De struts, jdbc template jusqu'à quarkus microprofile compilé nativement avec Graalvm et la magie de hibernate panache, en parcourrant nos outils de build de Ant jusqu'a maven et graddle, nous ferons un tour d'horizon de l'évolution des techno que nous avons pu croiser, ou subir. De la méthodologie de cycle en V a l'agilité et l'enpowerement du développeur logiciel, nous aurons un regarde sur les changements qui ont impactés nos manières de travailler.
 
-Basé sur nos expériences respectives de développeurs depuis 20 ans, nous vous proposons de jeter un regard en arrière sur notre métier et ses évolutions.
+Basé sur nos expériences respectives de développeurs depuis plus de 20 ans, nous vous proposons de jeter un regard en arrière sur notre métier et ses évolutions.
